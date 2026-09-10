@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-I'm a **Data Science graduate student and developer** passionate about building practical AI and software systems that solve real-world problems.
+I'm a **Data Science student and developer** passionate about building practical AI and software systems that solve real-world problems.
 
 My work spans **Machine Learning, Deep Learning, Generative AI, Computer Vision, Data Science, Data Engineering, and full-stack development.**
 
@@ -133,46 +133,49 @@ AI-powered system for detecting vulnerabilities at the **function level in sourc
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-<a href="https://github.com/abhisheknsalian">
+### 📁 Projects
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=abhisheknsalian&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=default"
-width="100%"
-/>
+**18+**
 
+Public Repositories
+
+<a href="https://github.com/abhisheknsalian?tab=repositories">
+View Repositories →
 </a>
 
 </td>
 
 <td width="33%" align="center">
 
+### 💻 Contributions
+
+**200+**
+
+Contributions this year
+
 <a href="https://github.com/abhisheknsalian">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknsalian&layout=compact&hide_border=true&langs_count=7&theme=default"
-width="100%"
-/>
-
+View Activity →
 </a>
 
 </td>
 
 <td width="33%" align="center">
 
+### 🚀 Building
+
+**AI × Data × Software**
+
+Real-world systems
+
 <a href="https://github.com/abhisheknsalian">
-
-<img
-src="https://streak-stats.demolab.com?user=abhisheknsalian&hide_border=true&theme=default"
-width="100%"
-/>
-
+Explore Projects →
 </a>
 
 </td>
