@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero-banner.svg" width="100%" alt="Abhishek Salian — AI/ML Engineer, Data Scientist, Software Developer">
+<img src="./banner.png" width="100%" alt="Abhishek Salian — AI/ML Engineer, Data Scientist, Software Developer">
 
 </div>
 
