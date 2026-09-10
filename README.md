@@ -1,140 +1,190 @@
 <div align="center">
 
-👋 Hi, I'm Abhishek Salian
-
-AI / ML Engineer · Data Scientist · Software Developer
-
-Turning ideas into intelligent, production-ready solutions.
-
-📍 Berlin, Germany
-
-
-
-
+<img src="./hero-banner.svg" width="100%" alt="Abhishek Salian — AI/ML Engineer, Data Scientist, Software Developer">
 
 </div>
 
-🧠 About Me
+<table>
+<tr>
+<td width="68%" valign="top">
 
-I'm a Data Science graduate student and developer focused on building practical AI and software systems that solve real-world problems.
+## 👤 About Me
 
-My work sits at the intersection of:
+I'm a **Data Science graduate student and developer** passionate about building practical AI and software systems that solve real-world problems.
 
-🤖 Machine Learning & Deep Learning
+My work spans **Machine Learning, Deep Learning, Generative AI, Computer Vision, Data Science, Data Engineering, and full-stack development.**
 
-🧠 Generative AI & LLM Applications
+I enjoy taking projects from **idea → experimentation → implementation → deployment**, with a focus on impact, scalability, and usability.
 
-👁️ Computer Vision
+Currently, I'm exploring **AI-powered applications, intelligent agents, RAG systems, and production-oriented ML backends.**
 
-📊 Data Science & Data Engineering
+</td>
 
-💻 Backend & Full-Stack Development
+<td width="32%" valign="middle">
 
-☁️ Deployment and production-oriented systems
+> ### “
+>
+> Technology is most powerful when it solves real problems and creates opportunities for people.
+>
+> **— Abhishek Salian**
 
-I enjoy taking projects through the full journey:
+</td>
+</tr>
+</table>
 
-Idea → Experimentation → Implementation → Deployment
+---
 
-I don't just want to build models. I want to build systems that people can actually use.
+## ⚙️ Tech Stack
 
-🚀 What I'm Building
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td align="center">🐍 Python</td>
+<td align="center">🗃️ SQL</td>
+<td align="center">🟨 JavaScript</td>
+<td align="center">🔷 TypeScript</td>
+<td align="center">☕ Java</td>
+<td align="center">C/C++</td>
+<td align="center">HTML</td>
+<td align="center">CSS</td>
+</tr>
 
-Currently exploring and building:
+<tr>
+<td><b>AI / ML</b></td>
+<td align="center">🔥 PyTorch</td>
+<td align="center">🔶 TensorFlow</td>
+<td align="center">🤗 Scikit-learn</td>
+<td align="center">🦜 LangChain</td>
+<td align="center">🔗 LangGraph</td>
+<td align="center">◎ OpenAI</td>
+<td align="center">🤗 Hugging Face</td>
+<td align="center">👁️ Computer Vision</td>
+</tr>
 
-AI-powered applications using LLMs and intelligent agents
+<tr>
+<td><b>Data & DB</b></td>
+<td align="center">🐘 PostgreSQL</td>
+<td align="center">🍃 MongoDB</td>
+<td align="center">🔴 Redis</td>
+<td align="center">🐬 MySQL</td>
+<td align="center">🐼 Pandas</td>
+<td align="center">🔢 NumPy</td>
+<td align="center">▥ Databricks</td>
+</tr>
 
-RAG and natural-language interfaces for working with data
+<tr>
+<td><b>Tools & DevOps</b></td>
+<td align="center">🔀 Git</td>
+<td align="center">◉ GitHub</td>
+<td align="center">🐳 Docker</td>
+<td align="center">☁️ AWS</td>
+<td align="center">🐧 Linux</td>
+<td align="center">VS Code</td>
+<td align="center">📮 Postman</td>
+<td align="center">📺 Streamlit</td>
+</tr>
+</table>
 
-Multi-agent systems for complex real-world workflows
+---
 
-Production-oriented ML backends and APIs
+## ⭐ Featured Projects
 
-Data pipelines and intelligent data platforms
+<table>
+<tr>
 
-🛠️ Tech Stack
+<td width="33%" valign="top">
 
-AI / Machine Learning
+### 🛡️ [cyber-ai-platform](https://github.com/abhisheknsalian/cyber-ai-platform)
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square"/>
-</p>
+Multi-agent AI platform for cybersecurity threat analysis with intelligent workflows and threat intelligence processing.
 
-Data
+**Tech**
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
+`Python` `AI Agents` `Cybersecurity`
 
-Backend / Engineering
+</td>
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square"/>
-</p>
+<td width="33%" valign="top">
 
-⭐ Featured Projects
+### 🗄️ [sqlgpt](https://github.com/abhisheknsalian/sqlgpt)
 
-🛡️ Cyber AI Platform
+Natural-language interface for working with SQL databases using LLMs, with a secure and scalable backend.
 
-Multi-agent AI platform for cybersecurity threat analysis
+**Tech**
 
-A practical AI system focused on threat intelligence, analysis workflows, and intelligent agent-based processing.
+`Python` `LLM` `FastAPI`
 
-Focus: Python AI Agents LLMs Cybersecurity Data Processing
+</td>
 
-👉 View Repository
+<td width="33%" valign="top">
 
-🗄️ SQLGPT
+### 🔐 [function-level-vulnerability-detection](https://github.com/abhisheknsalian/function-level-vulnerability-detection)
 
-Natural language → SQL using LLMs
+AI-powered system for detecting vulnerabilities at the **function level in source code**, combining machine learning with code analysis.
 
-An AI-powered system that allows users to interact with databases using natural language while keeping the backend secure and scalable.
+**Tech**
 
-Focus: Python LLMs SQL RAG Backend APIs
+`Python` `Code Analysis` `Security`
 
-👉 View Repository
+</td>
 
-🏥 KithCare Backend
+</tr>
+</table>
 
-Backend infrastructure for an AI-enabled healthcare platform
+---
 
-API and backend engineering for a platform integrating AI/LLM capabilities into application workflows.
+## 📊 GitHub Stats
 
-Focus: Python FastAPI Redis Docker LLM Integration
+<table>
+<tr>
 
-👉 View Repository
+<td width="33%" align="center">
 
-📈 GitHub Activity
+<a href="https://github.com/abhisheknsalian">
 
-<div align="center">
+<img
+src="https://github-readme-stats.vercel.app/api?username=abhisheknsalian&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=default"
+width="100%"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhisheknsalian&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknsalian&layout=compact&hide_border=true&langs_count=8" height="170"/>
+</td>
 
-</div>
+<td width="33%" align="center">
 
-<div align="center">
+<a href="https://github.com/abhisheknsalian">
 
-<img src="https://streak-stats.demolab.com?user=abhisheknsalian&hide_border=true" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknsalian&layout=compact&hide_border=true&langs_count=7&theme=default"
+width="100%"
+/>
 
-</div>
+</a>
 
-🎯 What I Care About
+</td>
 
+<td width="33%" align="center">
+
+<a href="https://github.com/abhisheknsalian">
+
+<img
+src="https://streak-stats.demolab.com?user=abhisheknsalian&hide_border=true&theme=default"
+width="100%"
+/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🚀 What I Care About
+
+```text
 Building useful AI
         ↓
 Connecting models with real data
@@ -142,20 +192,3 @@ Connecting models with real data
 Designing reliable software systems
         ↓
 Deploying solutions people can actually use
-
-I’m especially interested in roles where AI, data, and software engineering overlap.
-
-🤝 Let's Connect
-
-I'm open to conversations around:
-
-AI/ML · Generative AI · Data Science · Backend Engineering · AI Agents ·
-RAG · Data Engineering · Software Development
-
-<div align="center">
-
-💬 Have an interesting problem to solve?
-
-Let's build something useful.
-
-</div>
